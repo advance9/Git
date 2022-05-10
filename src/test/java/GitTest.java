@@ -18,5 +18,6 @@ public class GitTest {
         System.out.println("hello github!");
         System.out.println("I am is IDEA!");
         System.out.println("I am is IDEA!");
+        System.out.println("I am is IDEA!");
     }
 }
