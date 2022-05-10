@@ -16,5 +16,6 @@ public class GitTest {
         System.out.println("hello merge!");
         System.out.println("merge conflict!");
         System.out.println("hello github!");
+        System.out.println("I am is IDEA!");
     }
 }
