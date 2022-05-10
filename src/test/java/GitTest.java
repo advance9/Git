@@ -19,5 +19,6 @@ public class GitTest {
         System.out.println("I am is IDEA!");
         System.out.println("I am is IDEA!");
         System.out.println("I am is IDEA!");
+        System.out.println("pull .....");
     }
 }
